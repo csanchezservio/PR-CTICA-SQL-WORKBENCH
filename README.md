@@ -1,2 +1,2 @@
 # PRACTICA-SQL-WORKBENCH
-Base de datos y diagrama EER creada con Workbench, gestor de MySQL
+Base de datos y diagrama EER creados con Workbench, gestor de MySQL
